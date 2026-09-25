@@ -7,7 +7,7 @@ remotely in English and Spanish.
 I build end-to-end data pipelines: ingestion, warehousing with dbt, streaming,
 forecasting, and BI. More and more, I add AI to that work.
 
-🌐 **[Portfolio & CV](https://professional-website-seven-ebon.vercel.app)** ·
+🌐 **[Portfolio & CV](https://www.aloiswirkes.com)** ·
 💼 **[LinkedIn](https://www.linkedin.com/in/alois-wirkes/)** ·
 🧰 **[Upwork](https://www.upwork.com/freelancers/~01e9f20bfb142f07cb)** ·
 🟢 **Open to remote work**
@@ -23,7 +23,7 @@ forecasting, and BI. More and more, I add AI to that work.
 | [**ELT Warehouse with CI**](https://github.com/wirkix/elt-warehouse-ci) | NBA data warehouse whose dbt models are tested in CI and refreshed daily | dbt · Databricks · GitHub Actions · Metabase | [Dashboard](https://elt-warehouse-ci.duckdns.org/public/dashboard/c6300a60-915c-4124-92e1-0c208669061c) |
 | [**Economic Pulse Lakehouse**](https://github.com/wirkix/economic-pulse-lakehouse) | Mexican economic indicators (Banxico, INEGI) through a bronze/silver/gold lakehouse | Airflow · PySpark · MinIO · DuckDB · Tableau | [Tableau viz](https://public.tableau.com/views/EconomicPulse-Mexico/EconomicPulseMxico) |
 | [**Motor Analytics**](https://github.com/wirkix/motor-analytics) | Ask questions about the used-car market in plain language; a Claude agent writes and runs the SQL | DuckDB · dbt · Claude API · Streamlit | [Chat app](https://motor-analytics-naksohgdk2zwoxk5buo2va.streamlit.app/) |
-| [**Job Market Radar**](https://github.com/wirkix/job-market-radar) | Scrapes remote data-engineering jobs, extracts skills with an LLM, models them into a star schema | Airflow · dbt · PostgreSQL · Power BI | [Report](https://professional-website-seven-ebon.vercel.app/projects/job-market-radar) |
+| [**Job Market Radar**](https://github.com/wirkix/job-market-radar) | Scrapes remote data-engineering jobs, extracts skills with an LLM, models them into a star schema | Airflow · dbt · PostgreSQL · Power BI | [Report](https://www.aloiswirkes.com/projects/job-market-radar) |
 
 ---
 
